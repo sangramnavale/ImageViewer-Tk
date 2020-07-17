@@ -5,7 +5,7 @@ large_font = ('Verdana', 20) # Font Type and Font Size
 
 root = Tk()
 root.title("My Pokedex")
-root.iconbitmap("C:/Users/SANGRAM/Desktop/Tkinter/pokeball.ico") 
+root.iconbitmap("...") # Insert your icon path here
 
 # Loading Images and creating a list
 my_img1 = ImageTk.PhotoImage(Image.open("bulbasaur.png")) 
